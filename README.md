@@ -32,6 +32,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjivaniyadav&" alt="sanjivaniyadav" /></p>
 
-<h3 align="left">Badges:</h3>
 
-[![An image of @sanjivaniyadav's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sanjivaniyadav)](https://holopin.io/@sanjivaniyadav)
