@@ -30,6 +30,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjivaniyadav&show_icons=true&locale=en" alt="sanjivaniyadav" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjivaniyadav&" alt="sanjivaniyadav" /></p>
 
 
