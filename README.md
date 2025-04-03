@@ -1,7 +1,7 @@
 <img 
-  src="https://media.licdn.com/dms/image/v2/D4D12AQG2-3Vm_jyYIw/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1693753179836?e=1733961600&v=beta&t=Fg-sZyd7EhaLUG-0EtzxNVGVx-nuLLHcnuuHRuSJTl8" 
+  src="https://github.com/user-attachments/assets/4baddc01-eeee-4fe4-ad98-8826689bb31d" 
   alt="Profile Banner"
-  style="width: 100%; height: 350px; object-fit: cover;"
+  style="width: 800px; height: 300px;  object-fit: cover;"
 />
 
 <!-- [![MasterHead](https://media.licdn.com/dms/image/v2/D4D12AQG2-3Vm_jyYIw/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1693753179836?e=1733961600&v=beta&t=Fg-sZyd7EhaLUG-0EtzxNVGVx-nuLLHcnuuHRuSJTl8)](https://SanjivaniYadav.io) -->
@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjivaniyadav&label=Profile%20views&color=0e75b6&style=flat" alt="sanjivaniyadav" /> </p>
 
-- 🌱 I’m currently learning **DevOps**
+<!-- - 🌱 I’m currently learning **DevOps** -->
 
 - 💬 Ask me about **MERN, Frontend, Backend**
 
@@ -33,7 +33,6 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4Pz86gwta70a9tJabVX2rKknrSt2RoEkgxG9KjyG5Hnh5BBhqz0G5U6ltcURhz3jCD98" alt="express" width="40" height="40"/> </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-  <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
@@ -44,7 +43,8 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-arbyx&psig=AOvVaw34EytZX3ftbkph-2y_jDnb&ust=1743758164386000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOi44cLDu4wDFQAAAAAdAAAAABAT" alt="tailwind" width="40" height="40"/> </a> 
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/dbc114af-2bb8-4340-b975-01bba880e96e" alt="tailwindCss" width="40" height="40"/>
+ </a> 
 </p>
 
 <p>
